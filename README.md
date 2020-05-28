@@ -27,7 +27,9 @@ Also, I know that some are eager to write rules (to try it out or because they h
 
 ## Code of conduct
 
-I would like this community to be healthy, and I would like to request a few additional things in addition to the usual code of conduct (TODO create one!).
+Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+I would like this community to be healthy, and I would like to request a few additional things in addition to the usual code of conduct that I linked above.
 
 1. Respect a maintainer's decision to refuse adding a rule to their package. Adding a rule in a package means more maintenance in the future (documentation, more configuration options, updating to new versions of Elm of `elm-review`, ...), and not wanting to add that burden is a reasonable reason. Ultimately, the package is under a name, meaning that it should somewhat reflect that person's choices and opinions, and they should not have to maintain they strongly disagree with.
 
