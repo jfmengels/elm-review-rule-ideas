@@ -9,7 +9,7 @@ You may also want to look for rules in the [Elm packages registry](https://packa
 
 ### 1. Lasting discussions
 
-A A lot of these discussions can be had on the Elm Slack in the #elm-review channel, but those don't remain visible for a long time, and are hard to search for. Being able to search for rule proposals will be useful to see how
+A lot of these discussions can be had on the Elm Slack in the #elm-review channel, but those don't remain visible for a long time, and are hard to search for. Being able to search for rule proposals will be useful to see what was thought of already, how they evolved and potentially where an implementation can be found.
 
 I also hope that having people watch these public issues will lead to discussions that will ultimately raise the quality of the rules. Maybe the discussion will lead to the rule not being implemented, which can be a good thing too, because not all rules are valuable to have!
 
@@ -29,7 +29,7 @@ Also, I know that some are eager to write rules (to try it out or because they h
 
 I would like this community to be healthy, and I would like to request a few additional things in addition to the usual code of conduct (TODO create one!).
 
-1. Respect a maintainer's decision to refuse adding a rule to their package. Adding a rule in a package means more maintenance in the future (documentation, more configuration options, updating to new versions of Elm of `elm-review`, ...), and not wanting to add that TODO is a reasonable reason. Ultimately, the package is under a name, meaning that it should somewhat reflect that person's choices and opinions, and they should not have to maintain they strongly disagree with.
+1. Respect a maintainer's decision to refuse adding a rule to their package. Adding a rule in a package means more maintenance in the future (documentation, more configuration options, updating to new versions of Elm of `elm-review`, ...), and not wanting to add that burden is a reasonable reason. Ultimately, the package is under a name, meaning that it should somewhat reflect that person's choices and opinions, and they should not have to maintain they strongly disagree with.
 
   Similarly, don't disrespectfully ask them why something hasn't been fixed even after years of waiting. I made `elm-review` in a way that makes it easy to fork rules into your project, which should prevent you from being blocked.
 
