@@ -9,6 +9,9 @@ Don't forget to be respectful, and to give enough details for others to pitch in
 **What the rule should do:**
 
 
+**What problems does it solve:**
+
+
 **Example of things the rule would report:**
 
 ```elm
