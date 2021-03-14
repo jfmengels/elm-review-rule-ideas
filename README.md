@@ -1,3 +1,5 @@
+**Moved to [`elm-review`'s discussions](https://github.com/jfmengels/elm-review/discussions/categories/rule-ideas)**
+
 # Rule ideas for elm-review
 
 Discuss rule ideas for [`elm-review`].
